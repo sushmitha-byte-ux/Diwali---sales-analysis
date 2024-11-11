@@ -1,7 +1,9 @@
 **Diwali Sales Analysis**
+
 This project analyzes sales data from Diwali season sales to uncover insights into customer purchasing behavior, demographics, and sales performance. The insights derived help inform business strategies to optimize future holiday promotions and improve customer targeting.
 
 **Table of Contents**
+
 Project Overview
 Features
 Data Source
